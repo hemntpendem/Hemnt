@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top:50px;">
+<h1 align="center" style="margin-top:100px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=3000&pause=500&center=true&vCenter=true&width=900&lines=HEY+EVERYONE;+I'M+HEMNT&color=FF33FF;CC33FF;9933FF&background=FF00FF;DA70D6;8A2BE2" />
 </h1>
 
