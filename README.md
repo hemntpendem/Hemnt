@@ -1,4 +1,8 @@
-# <span style="color:#ff6b6b; font-weight:900;">HEY EVERYONE, I’M HEMNT</span>
+<h1 align="center" style="margin-top:50px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=3000&pause=500&center=true&vCenter=true&width=900&lines=HEY+EVERYONE;+I'M+HEMNT&color=FF33FF;CC33FF;9933FF&background=FF00FF;DA70D6;8A2BE2" />
+</h1>
+
+
 
 **A passionate frontend dev crafting clean, fast and modern web experiences.**
 
