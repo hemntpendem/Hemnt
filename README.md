@@ -1,6 +1,15 @@
-<h1 align="center" style="margin-top:100px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=70&duration=3000&pause=500&center=true&vCenter=true&width=900&lines=HEY+EVERYONE;+I'M+HEMNT&color=FF33FF;CC33FF;9933FF&background=FF00FF;DA70D6;8A2BE2" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=3000&pause=500&center=true&vCenter=true&width=900&lines=HEY+EVERYONE;I'M+HEMNT" alt="Animated name heading" />
+</p>
+
+<h1 align="center">Welcome to My GitHub!</h1>
+
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="240" alt="Web dev animated banner"/>
+</p> -->
+<p align="center">
+  <img src="https://images.weserv.nl/?url=media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif&w=240&h=240&fit=cover&mask=circle" width="240" alt="Web dev animated banner"/>
+</p>
 
 
 
